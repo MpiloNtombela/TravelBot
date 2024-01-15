@@ -1,0 +1,23 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #e01a76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.toast {
+  position: absolute;
+  top: 3rem;
+  right: 0;
+  width: 350px;
+  margin: 0.5rem;
+  z-index: 9999;
+}

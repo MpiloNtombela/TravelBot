@@ -1,0 +1,40 @@
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.hero {
+  background: #BE0523;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.782) 0%, #BE0523);
+  height: 280px;
+  padding: 0.75rem;
+}
+
+.icon-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-content {
+  position: absolute;
+  top: 220px;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+.profile {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  object-fit: cover;
+  object-position: center;
+  background: #ccc;
+  border: 2px solid #eee;
+}
+
+.header-text {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 0.5rem 0;
+}

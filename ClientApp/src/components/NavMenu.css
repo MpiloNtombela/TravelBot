@@ -1,0 +1,33 @@
+﻿a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+.logo {
+  font-weight: 800;
+  white-space: nowrap;
+}
+.logo-ext {
+  font-weight: 700;
+  color: #BE0523;
+  white-space: nowrap;
+}
+.by-kaha {
+  font-size: .55rem;
+  text-align: end;
+  white-space: nowrap;
+  color: #6c757d;
+}
